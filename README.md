@@ -1,3 +1,4 @@
-# room.security-telegram.bot
+# room.security-telegram
 
-[[Screenshot 2026-07-21 173731.png]]
+<img width="1228" height="605" alt="Screenshot 2026-07-22 012703" src="https://github.com/user-attachments/assets/8302365e-3944-4a77-aec5-5cabba2d0c3b" />
+

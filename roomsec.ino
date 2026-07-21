@@ -48,7 +48,8 @@ void handleNewMessages(int numNewMessages) {
       else if (text == "/start") {
         Serial.println("[SERIAL] Received /start command");
 
-        String welcome = "hello. I'm securitybot. 🛡️\n\n";
+        String welcome = "hello. I'm securitybot. 🛡️\n created be Nix.\n social media: \n telegram chanel: https://t.me/nixinworld \n github: https://github.com/nixnika17
+\n youtube: www.youtube.com/@nixvaslgen\n Want to message me directly? You can find all my personal accounts (Telegram, Gmail, Insta, TikTok) in my bio on GitHub or Telegram channel. Good Luck! \n\n";
         welcome += "Comands:\n";
         welcome += "/status — check system and power bank";
         bot.sendMessage(CHAT_ID, welcome, "");
